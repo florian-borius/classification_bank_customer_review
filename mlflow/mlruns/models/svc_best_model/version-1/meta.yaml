@@ -1,0 +1,15 @@
+aliases: []
+creation_timestamp: 1747673660468
+current_stage: None
+description: null
+last_updated_timestamp: 1747673660468
+name: svc_best_model
+run_id: dc6683e761ff4416bc16d2deda96ebc6
+run_link: null
+source: file:///Users/florianb/Downloads/2024-S1  Formation Data Scientist (DataScientest)/PROJET/notebooks/../mlflow/mlruns/393622527853827723/dc6683e761ff4416bc16d2deda96ebc6/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/florianb/Downloads/2024-S1  Formation Data Scientist
+  (DataScientest)/PROJET/notebooks/../mlflow/mlruns/393622527853827723/dc6683e761ff4416bc16d2deda96ebc6/artifacts/model
+user_id: null
+version: 1

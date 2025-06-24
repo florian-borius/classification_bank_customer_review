@@ -1,0 +1,15 @@
+aliases: []
+creation_timestamp: 1747642394792
+current_stage: None
+description: null
+last_updated_timestamp: 1747642394792
+name: logistic_regression_best_model
+run_id: 668b7938b90142669ce210f77aaad225
+run_link: null
+source: file:///Users/florianb/Downloads/2024-S1  Formation Data Scientist (DataScientest)/PROJET/notebooks/../mlflow/mlruns/393622527853827723/668b7938b90142669ce210f77aaad225/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/florianb/Downloads/2024-S1  Formation Data Scientist
+  (DataScientest)/PROJET/notebooks/../mlflow/mlruns/393622527853827723/668b7938b90142669ce210f77aaad225/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+aliases: []
+creation_timestamp: 1747748865791
+current_stage: None
+description: null
+last_updated_timestamp: 1747748865791
+name: balanced_random_forest_best_model
+run_id: ca24bca5676c4b4bbc8c7f8a6e18dc4b
+run_link: null
+source: file:///Users/florianb/Downloads/2024-S1  Formation Data Scientist (DataScientest)/PROJET/notebooks/../mlflow/mlruns/393622527853827723/ca24bca5676c4b4bbc8c7f8a6e18dc4b/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/florianb/Downloads/2024-S1  Formation Data Scientist
+  (DataScientest)/PROJET/notebooks/../mlflow/mlruns/393622527853827723/ca24bca5676c4b4bbc8c7f8a6e18dc4b/artifacts/model
+user_id: null
+version: 2

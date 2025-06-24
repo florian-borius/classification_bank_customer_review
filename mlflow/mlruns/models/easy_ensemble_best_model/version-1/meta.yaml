@@ -1,0 +1,15 @@
+aliases: []
+creation_timestamp: 1747769380043
+current_stage: None
+description: null
+last_updated_timestamp: 1747769380043
+name: easy_ensemble_best_model
+run_id: 110b24af8ba547299ac130b225d28551
+run_link: null
+source: file:///Users/florianb/Downloads/2024-S1  Formation Data Scientist (DataScientest)/PROJET/notebooks/../mlflow/mlruns/393622527853827723/110b24af8ba547299ac130b225d28551/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/florianb/Downloads/2024-S1  Formation Data Scientist
+  (DataScientest)/PROJET/notebooks/../mlflow/mlruns/393622527853827723/110b24af8ba547299ac130b225d28551/artifacts/model
+user_id: null
+version: 1
