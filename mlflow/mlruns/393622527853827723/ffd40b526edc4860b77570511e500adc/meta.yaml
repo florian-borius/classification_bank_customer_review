@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/florianb/Downloads/2024-S1  Formation Data Scientist (DataScientest)/PROJET/notebooks/../mlflow/mlruns/393622527853827723/ffd40b526edc4860b77570511e500adc/artifacts
+end_time: 1747742846117
+entry_point_name: ''
+experiment_id: '393622527853827723'
+lifecycle_stage: active
+run_id: ffd40b526edc4860b77570511e500adc
+run_name: multinomialnb
+run_uuid: ffd40b526edc4860b77570511e500adc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747742826058
+status: 3
+tags: []
+user_id: florianb
