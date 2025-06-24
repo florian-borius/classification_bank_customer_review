@@ -1,0 +1,15 @@
+aliases: []
+creation_timestamp: 1748193647883
+current_stage: None
+description: null
+last_updated_timestamp: 1748193647883
+name: xgboost_best_model
+run_id: 9bebb1fb99b14c4695f9488aaa864153
+run_link: null
+source: file:///Users/florianb/Downloads/2024-S1  Formation Data Scientist (DataScientest)/PROJET/notebooks/../mlflow/mlruns/393622527853827723/9bebb1fb99b14c4695f9488aaa864153/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/florianb/Downloads/2024-S1  Formation Data Scientist
+  (DataScientest)/PROJET/notebooks/../mlflow/mlruns/393622527853827723/9bebb1fb99b14c4695f9488aaa864153/artifacts/model
+user_id: null
+version: 1

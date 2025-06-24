@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/florianb/Downloads/2024-S1  Formation Data Scientist (DataScientest)/PROJET/notebooks/../mlflow/mlruns/393622527853827723/ca24bca5676c4b4bbc8c7f8a6e18dc4b/artifacts
+end_time: 1747748894753
+entry_point_name: ''
+experiment_id: '393622527853827723'
+lifecycle_stage: active
+run_id: ca24bca5676c4b4bbc8c7f8a6e18dc4b
+run_name: balanced_random_forest
+run_uuid: ca24bca5676c4b4bbc8c7f8a6e18dc4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747748859523
+status: 3
+tags: []
+user_id: florianb

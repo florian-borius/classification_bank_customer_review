@@ -1,0 +1,15 @@
+aliases: []
+creation_timestamp: 1747733796242
+current_stage: None
+description: null
+last_updated_timestamp: 1747733796242
+name: knn_best_model
+run_id: 91d50c76b11f4d3c88e3cc7d70bd0a57
+run_link: null
+source: file:///Users/florianb/Downloads/2024-S1  Formation Data Scientist (DataScientest)/PROJET/notebooks/../mlflow/mlruns/393622527853827723/91d50c76b11f4d3c88e3cc7d70bd0a57/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/florianb/Downloads/2024-S1  Formation Data Scientist
+  (DataScientest)/PROJET/notebooks/../mlflow/mlruns/393622527853827723/91d50c76b11f4d3c88e3cc7d70bd0a57/artifacts/model
+user_id: null
+version: 1

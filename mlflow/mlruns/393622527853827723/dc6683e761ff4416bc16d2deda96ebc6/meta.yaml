@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/florianb/Downloads/2024-S1  Formation Data Scientist (DataScientest)/PROJET/notebooks/../mlflow/mlruns/393622527853827723/dc6683e761ff4416bc16d2deda96ebc6/artifacts
+end_time: 1747691589165
+entry_point_name: ''
+experiment_id: '393622527853827723'
+lifecycle_stage: active
+run_id: dc6683e761ff4416bc16d2deda96ebc6
+run_name: svc
+run_uuid: dc6683e761ff4416bc16d2deda96ebc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747673652735
+status: 3
+tags: []
+user_id: florianb
