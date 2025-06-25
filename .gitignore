@@ -1,20 +1,37 @@
 # Ignore macOS system files
 .DS_Store
 
-# Ignore folders
-app/
-scripts/
+
+# Ignore specific data files
+data/processed/processed_reviews_multiclass.parquet
+data/processed/processed_reviews.parquet
+
+data/raw/scraped_reviews_boursobank_pages_1_to_153.csv
+data/raw/scraped_reviews_boursobank_pages_154_to_290.csv
+data/raw/scraped_reviews_boursobank_pages_291_to_457.csv
+data/raw/scraped_reviews_boursobank_pages_458_to_609.csv
+data/raw/scraped_reviews_boursobank_pages_610_to_751.csv
+data/raw/scraped_reviews_boursobank_pages_752_to_901.csv
+data/raw/scraped_reviews_boursobank_pages_902_to_1038.csv
+data/raw/scraped_reviews_boursobank_pages_1039_to_1181.csv
+data/raw/scraped_reviews_boursobank_pages_1182_to_1332.csv
+data/raw/scraped_reviews_boursobank_pages_1333_to_1477.csv
+data/raw/scraped_reviews_boursobank_pages_1478_to_1637.csv
+
+data/raw/scraped_reviews_fortuneo_pages_1_to_296.csv
+data/raw/scraped_reviews_fortuneo_pages_297_to_417.csv
+data/raw/scraped_reviews_fortuneo_pages_418_to_481.csv
+
+data/raw/scraped_reviews_hellobank_pages_1_to_323.csv
+
+data/raw/scraped_reviews_monabanq_pages_1_to_318.csv
+
+data/raw/scraped_reviews_final.csv
+
 
 # Ignore specific notebook files
+notebooks/1_data_extraction (avec sorties data TrustPilot).ipynb
+notebooks/2_data_cleaning_feature-engineering_analysis (avec sorties data TrustPilot).ipynb
+notebooks/3_data_preprocessing_ml_modeling (avec sorties data TrustPilot).ipynb
 notebooks/4_transformers_modeling.ipynb
 notebooks/ML_DL.ipynb
-
-# Ignore all data files in subfolders
-data/processed/*
-data/raw/*
-data/sample/*
-
-# Except these placeholder files
-!data/processed/.gitkeep
-!data/raw/.gitkeep
-!data/sample/.gitkeep
