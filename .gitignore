@@ -1,2 +1,20 @@
 # Ignore macOS system files
 .DS_Store
+
+# Ignore folders
+app/
+scripts/
+
+# Ignore specific notebook files
+notebooks/4_transformers_modeling.ipynb
+notebooks/ML_DL.ipynb
+
+# Ignore all data files in subfolders
+data/processed/*
+data/raw/*
+data/sample/*
+
+# Except these placeholder files
+!data/processed/.gitkeep
+!data/raw/.gitkeep
+!data/sample/.gitkeep
